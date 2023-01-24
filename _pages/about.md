@@ -14,5 +14,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently as PhD student at ONERA, I am working to develop deep learning methods for designing better monocular 3D vision systems.
+I am currently a PhD student at ONERA, I am working to develop deep learning methods for designing better monocular 3D vision systems.
 
