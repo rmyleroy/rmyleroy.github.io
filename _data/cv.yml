@@ -70,6 +70,7 @@
         - Monocular 3D estimation
         - Image deblurring
     - title: Co-design
+      items:
       - End-to-end design of unconventional optics and deep neural networks
 
 - title: Other Interests
