@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CV_Leroy_Remy.pdf
+cv_pdf: leroy-remy-computer-vision-engineer-researcher.pdf
 ---
