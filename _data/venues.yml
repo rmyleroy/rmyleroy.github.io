@@ -7,8 +7,12 @@
 
 "Optica":
   url: https://www.osapublishing.org/optica/home.cfm
-  color: "#f7f7f7"
 
 "SPIE":
   url: https://www.spiedigitallibrary.org/
-  color: "#f7f7f7"
+
+"MVA":
+  url: https://www.mva-org.jp/
+
+"RFIAP2020":
+  url: https://cap-rfiap2020.sciencesconf.org/
