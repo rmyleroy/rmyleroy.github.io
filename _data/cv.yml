@@ -72,6 +72,8 @@
     - title: Co-design
       items:
       - End-to-end design of unconventional optics and deep neural networks
+    - title: Signal compression
+      - Implicit Neural Representation
 
 - title: Other Interests
   type: list
