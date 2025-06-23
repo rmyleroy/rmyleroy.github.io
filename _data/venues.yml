@@ -4,3 +4,11 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Optica":
+  url: https://www.osapublishing.org/optica/home.cfm
+  color: "#f7f7f7"
+
+"SPIE":
+  url: https://www.spiedigitallibrary.org/
+  color: "#f7f7f7"
