@@ -84,7 +84,7 @@
 }
 
 @inproceedings{Leroy2021MVA,
-
+  abbr = {MVA},
   author={Leroy, Rémy and Trouvé-Peloux, Pauline and Champagnat, Frédéric and Le Saux, Bertrand and Carvalho, Marcela},
   booktitle={International Conference on Machine Vision and Applications (MVA)}, 
   title={{Pix2Point}: {L}earning Outdoor {3D} Using Sparse Point Clouds and Optimal Transport},
@@ -95,6 +95,7 @@
   doi={10.23919/MVA51890.2021.9511381}}
 
 @inproceedings{leroy2020RFIAP,
+  abbr = {RFIAP},
   title={Pix2Point: pr{\'e}diction monoculaire de sc{\`e}nes 3D par r{\'e}seaux de neurones hybrides et transport optimal},
   author={Leroy, R{\'e}my and Le Saux, Bertrand and de Carvalho, Marcela Pinheiro and Trouv{\'e}-Peloux, Pauline and Champagnat, Fr{\'e}d{\'e}ric},
   booktitle={RFIAP},
@@ -102,6 +103,7 @@
 }
 
 @InProceedings{leroy2022gretsi,
+  abbr = {GRETSI},
 	author = "Rémy Leroy and Pauline Trouvé-Peloux and Bertrand Le Saux and Benjamin Buat and Frédéric Champagnat",
 	title = "Régression locale de la profondeur grâce au flou de défocalisation et à  un réseau de neurones entraîné par soft-assignment",
 	booktitle = "28e Colloque sur le traitement du signal et des images",
@@ -135,6 +137,7 @@ selected = {true},
 }
 
 @phdthesis{leroy2023,
+  abbr = {THESIS}
   TITLE = {{Deep Learning methods for monocular 3D vision systems}},
   abstract = {In this thesis, we explore deep learning methods for monocular 3D vision systems, from image acquisition to processing. We first propose Pix2Point, a method for 3D point cloud prediction from a single image using context information, trained with an optimal transport loss. Pix2Point achieves a better coverage of the scenes when trained on sparse point clouds than monocular depth estimation methods, trained on sparse depth maps. Second, to exploit sensor depth cues, we propose a depth regression method from a defocused patch, which outperforms classification and direct regression, on simulated and real data. Finally, we tackle the design of a RGB-D monocular vision system for which the image is processed jointly by our defocus-based depth regression method and a simple image deblurring network. We propose an end-to-end multi-task optimisation framework of sensor and network parameters, that we apply to the focus optimisation for a chromatic lens. The optimisation landscape presents multiple optima, due to the depth regression task, while the deblurring task appears less sensitive to the focus. This thesis hence contains several contributions exploiting neural networks for monocular 3D estimation and paves the way towards end-to-end design of RGB-D systems.},
   AUTHOR = {Leroy, R{\'e}my},
